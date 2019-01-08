@@ -1,4 +1,4 @@
 # Titanic-Project
 Logistic Regression 
 
-Predicted that passegers survived or not.
+Predicted that passengers survived or not.
